@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "世界はあなたに笑いかけている",
+  "base_artist": "Little Glee Monster",
+  "createdAt": "2025-12-01T10:51:03.704642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界はあなたに笑いかけている",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/01_世界はあなたに笑いかけている_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界はあなたに笑いかけている -winter ver.-",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/02_世界はあなたに笑いかけている_-winter_ver.-_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界はあなたに笑いかけている - From THE FIRST TAKE",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/03_世界はあなたに笑いかけている_-_From_THE_FIRST_TAKE_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界はあなたに笑いかけている - Sekai wa anatani waraikaketeiru",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/04_世界はあなたに笑いかけている_-_Sekai_wa_anatani_waraikaketeiru_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界はあなたに笑いかけている -BRIGHT NEW WORLD<スペシャルオンデマンドライブ-",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/05_世界はあなたに笑いかけている_-BRIGHT_NEW_WORLD_スペシャルオンデマンドライブ-_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界はあなたに笑いかけている",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/06_世界はあなたに笑いかけている_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界はあなたに笑いかけている",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_01_世界はあなたに笑いかけている_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "世界はあなたに笑いかけている",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_02_世界はあなたに笑いかけている_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "世界はあなたに笑いかけている",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_03_世界はあなたに笑いかけている_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "世界はあなたに笑いかけている -winter ver.-",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_04_世界はあなたに笑いかけている_-winter_ver.-_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "世界はあなたに笑いかけている 5th Celebration Tour 2019 ～MONSTER GROOVE PARTY～ Live on 2019.11.03",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_05_世界はあなたに笑いかけている_5th_Celebration_Tour_2019_~MONSTER_GROOVE_PARTY~_Live_on_2019.11._Little_Glee_Monster.txt"
+    }
+  ]
+}
